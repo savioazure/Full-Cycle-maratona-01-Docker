@@ -1,0 +1,14 @@
+{
+  "name": "01-desafio-node-docker",
+  "version": "1.0.0",
+  "description": "01 Desafio - Maratona 4.0 Full Cycle",
+  "author": "Savio Kerber <savioazure@gmail.com",
+  "main": "server.js",
+  "scripts": {
+    "start": "server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  },
+  "license": "MIT"
+}
